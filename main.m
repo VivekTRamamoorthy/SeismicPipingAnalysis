@@ -6,6 +6,7 @@
 % Please specify the input piping element geometry in the inp function and
 % verify the mesh plot generated before proceeding
 clear
+addpath('./src')
  g=inp();
 %% PROPERTY & SECTION Assignments
 % Material Properties Etype1, Etype2,...
