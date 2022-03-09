@@ -1,4 +1,4 @@
-function g=inpcant()
+function g=inp_cant()
 %% INPUT SPACE
 % Key points
 % R=228.6;% radius of elbow in mm

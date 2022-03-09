@@ -1,4 +1,4 @@
-function g=inp()
+function g=inp_mecos()
 clear;clc;
 %% INPUT SPACE
 % Key points

@@ -15,9 +15,9 @@ for i=1:size(g.EDATA,1)
     Z=[g.NCA(g.EDATA(i,2),4) g.NCA(g.EDATA(i,3),4)];
 
     plot3(X,Y,Z,s)
-    xlabel('X in mm')
-    ylabel('Y in mm')
-    zlabel('Z in mm')
+    xlabel('X in m')
+    ylabel('Y in m')
+    zlabel('Z in m')
     %text(mean(X),mean(Y),mean(Z),num2str(i))
 
 end

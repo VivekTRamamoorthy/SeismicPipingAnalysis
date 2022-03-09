@@ -1,4 +1,4 @@
-function g=inpbend()
+function g=inp_bend()
 clear;clc;
 %% INPUT SPACE
 % Key points
